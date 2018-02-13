@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pistevo Official Website",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -16,7 +16,7 @@
         "display1Font": "Open Sans",
         "display1Size": "3.5",
         "display2Font": "Open Sans",
-        "display2Size": "3",
+        "display2Size": "2.5",
         "display5Font": "Open Sans",
         "display5Size": 1.5,
         "display7Font": "Open Sans",
